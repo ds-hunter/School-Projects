@@ -1,0 +1,1 @@
+The T34 Assembler was a "made-up" assembly language that we were required to write an assembler for. We had the opportunity to choose what language we wanted to program the assembler in, and I chose Python.
