@@ -1,1 +1,0 @@
-This is an archive of some projects that I completed during my academic career at South Dakota Mines. Some projects do not have all resources used to test and are strictly used as an example of the work done. (Not fully ported/uploaded)
